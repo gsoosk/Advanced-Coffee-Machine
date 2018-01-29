@@ -13,7 +13,7 @@ and then go to ./bin repository and run
 ```
 in terminal
 # Class diagram:
-![enter image description here](https://github.com/gsoosk/Advanced_Coffee-Machine/raw/master/2.png)
+![class diagram](https://github.com/gsoosk/Advanced-Coffee-Machine/blob/master/Class%20Diagram/ClassDiagram.jpg)
 
 ### NOTE:
 It uses g++ for compiling.
