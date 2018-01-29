@@ -12,6 +12,8 @@ and then go to ./bin repository and run
 ./AdvancedCoffeeMachine 
 ```
 in terminal
+# Class diagram:
+![enter image description here](https://github.com/gsoosk/Advanced_Coffee-Machine/raw/master/2.png)
 
 ### NOTE:
 It uses g++ for compiling.
